@@ -6,8 +6,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0A66C2?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ali-3b221a293/?isSelfProfile=true)
-[![Email](https://img.shields.io/badge/EMAIL-SAY_HI-8B5CF6?style=for-the-badge&labelColor=555555&logo=gmail&logoColor=white)](mailto:farhanali9u@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0A66C2?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ali-3b221a293/)
+[![Email](https://img.shields.io/badge/EMAIL-SAY_HI-8B5CF6?style=for-the-badge&labelColor=555555&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=farhanali9u@gmail.com&su=Hello%20Farhan)
 ![Location](https://img.shields.io/badge/LOCATION-KARACHI,_PAKISTAN-06B6D4?style=for-the-badge&labelColor=555555&logo=googlemaps&logoColor=white)
 ![Intern](https://img.shields.io/badge/INTERN-LUCKY_CEMENT-F59E0B?style=for-the-badge&labelColor=555555)
 
@@ -49,7 +49,7 @@ Location:    Karachi, Pakistan
 - 🧠 Passionate about protection, grid stability and clean energy
 - 🔌 Hands-on with 11 kV VCBs, SF6 panels, transformers and capacitor banks
 - 🌱 Always learning, always building
-- 📫 [farhanali9u@gmail.com](mailto:farhanali9u@gmail.com)
+- 📫 [farhanali9u@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=farhanali9u@gmail.com&su=Hello%20Farhan)
 
 ---
 
@@ -208,8 +208,8 @@ ETAP relay coordination study, MATLAB/Simulink load flow and fault analysis, and
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0A66C2?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhan-ali-sher)
-[![Email](https://img.shields.io/badge/EMAIL-SAY_HI-8B5CF6?style=for-the-badge&labelColor=555555&logo=gmail&logoColor=white)](mailto:farhanali9u@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0A66C2?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ali-3b221a293/)
+[![Email](https://img.shields.io/badge/EMAIL-SAY_HI-8B5CF6?style=for-the-badge&labelColor=555555&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=farhanali9u@gmail.com&su=Hello%20Farhan)
 
 *⚡ From Karachi, Pakistan. Let's power the future together!*
 
