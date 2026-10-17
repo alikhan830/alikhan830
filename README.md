@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,45:4c1d95,100:0e7490&height=240&section=header&text=Farhan%20Ali&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=Electrical%20Engineer%20%E2%80%A2%20Power%20Systems%20%26%20Energy&descSize=24&descAlignY=62" width="100%" alt="Farhan Ali banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:4c1d95,100:0e7490&height=220&section=header&text=Farhan%20Ali&fontSize=60&fontColor=ffffff&desc=Electrical%20Engineer%20%7C%20Power%20Systems%20and%20Energy&descSize=22" width="100%" alt="Farhan Ali - Electrical Engineer"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=Final+Year+EE+Student+%7C+FAST-NUCES;Power+Systems+%7C+Protection+%26+Relays;MV%2FLV+Distribution+%7C+Renewables+%26+BESS" alt="Typing SVG"/>
 
@@ -9,9 +9,9 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0A66C2?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhan-ali-sher)
 [![Email](https://img.shields.io/badge/EMAIL-SAY_HI-8B5CF6?style=for-the-badge&labelColor=555555&logo=gmail&logoColor=white)](mailto:farhanali9u@gmail.com)
 ![Location](https://img.shields.io/badge/LOCATION-KARACHI,_PAKISTAN-06B6D4?style=for-the-badge&labelColor=555555&logo=googlemaps&logoColor=white)
-![Intern](https://img.shields.io/badge/INTERN-LUCKY_CEMENT-F59E0B?style=for-the-badge&labelColor=555555&logo=thealgorithms&logoColor=white)
+![Intern](https://img.shields.io/badge/INTERN-LUCKY_CEMENT-F59E0B?style=for-the-badge&labelColor=555555)
 
-![Profile Views](https://komarev.com/ghpvc/?username=alikhan830&label=PROFILE+VIEWS&color=06B6D4&style=for-the-badge&labelColor=555555)
+![Profile Views](https://hits.sh/github.com/alikhan830.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=06B6D4&labelColor=555555)
 ![Followers](https://img.shields.io/github/followers/alikhan830?style=for-the-badge&label=FOLLOWERS&labelColor=555555&color=06B6D4)
 
 </div>
@@ -213,6 +213,6 @@ ETAP relay coordination study, MATLAB/Simulink load flow and fault analysis, and
 
 *⚡ From Karachi, Pakistan. Let's power the future together!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:4c1d95,100:0f0c29&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:4c1d95,100:0f0c29&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
