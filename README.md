@@ -1,72 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Farhan%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electrical%20Engineer%20%7C%20Power%20Systems%20%26%20Energy&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,45:4c1d95,100:0e7490&height=240&section=header&text=Farhan%20Ali&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=Electrical%20Engineer%20%E2%80%A2%20Power%20Systems%20%26%20Energy&descSize=24&descAlignY=62" width="100%" alt="Farhan Ali banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Power+Systems+%7C+Protection+%26+Relay+Coordination;MV%2FLV+Distribution+%7C+Renewable+Integration;MATLAB%2FSimulink+%7C+ETAP+%7C+AutoCAD+Electrical;Final+Year+EE+%40+FAST-NUCES+Karachi" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=Final+Year+EE+Student+%7C+FAST-NUCES;Power+Systems+%7C+Protection+%26+Relays;MV%2FLV+Distribution+%7C+Renewables+%26+BESS" alt="Typing SVG"/>
 
 <br/>
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-06B6D4?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0A66C2?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhan-ali-sher)
+[![Email](https://img.shields.io/badge/EMAIL-SAY_HI-8B5CF6?style=for-the-badge&labelColor=555555&logo=gmail&logoColor=white)](mailto:farhanali9u@gmail.com)
+![Location](https://img.shields.io/badge/LOCATION-KARACHI,_PAKISTAN-06B6D4?style=for-the-badge&labelColor=555555&logo=googlemaps&logoColor=white)
+![Intern](https://img.shields.io/badge/INTERN-LUCKY_CEMENT-F59E0B?style=for-the-badge&labelColor=555555&logo=thealgorithms&logoColor=white)
 
-![Profile Views](https://komarev.com/ghpvc/?username=alikhan830&label=Profile%20Views&color=0e75b6&style=flat-square)
-![Followers](https://img.shields.io/github/followers/alikhan830?label=Followers&style=flat-square&color=0e75b6)
+![Profile Views](https://komarev.com/ghpvc/?username=alikhan830&label=PROFILE+VIEWS&color=06B6D4&style=for-the-badge&labelColor=555555)
+![Followers](https://img.shields.io/github/followers/alikhan830?style=for-the-badge&label=FOLLOWERS&labelColor=555555&color=06B6D4)
 
 </div>
 
 ---
 
-## ⚡ About Me
+<table>
+<tr>
+<td width="62%" valign="top">
+
+## 🚀 About Me
 
 ```yaml
-Role:        Electrical Engineering Student (Final Year)
-University:  FAST-NUCES, Karachi
-Focus:       Power Systems × Renewable Energy × Protection
-Experience:  Intern @ Lucky Cement Ltd (11 kV MV Network, Captive Power Plant)
-Learning:    ETAP, Relay Coordination, Grid Integration, BESS
+Role:        Electrical Engineer (Power Systems & Energy)
+Education:   Final Year - B.Sc. EE, FAST-NUCES Karachi
+Focus:       Protection, MV/LV Distribution, Renewables
+Experience:  Intern @ Lucky Cement (11 kV Captive Power)
+Currently:   Building simulation projects in MATLAB & ETAP
+Exploring:   BESS, Grid Integration, Relay Coordination
 Location:    Karachi, Pakistan
 ```
 
-- 🔌 Studied **captive generation, synchronisation and islanding logic** on an 11 kV MV bus
-- 🛡️ Hands-on exposure to **IDMT overcurrent / earth-fault relay settings** per IEC 60255 and NEPRA Grid Code
-- 🔋 Analysed **hybrid systems**: thermal (HFO/LFO, WHR) + Solar + Wind + **BESS** for frequency regulation
-- 🧰 Assisted with servicing **11 kV VCBs, SF6 panels, transformers and capacitor banks** using LOTO/PTW
+</td>
+<td width="38%" align="center" valign="top">
+
+## 📊 Quick Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=alikhan830&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" width="100%" alt="GitHub stats"/>
+
+</td>
+</tr>
+</table>
+
+- ⚡ I turn power-system theory into working circuits and simulations
+- 🧠 Passionate about protection, grid stability and clean energy
+- 🔌 Hands-on with 11 kV VCBs, SF6 panels, transformers and capacitor banks
 - 🌱 Always learning, always building
+- 📫 [farhanali9u@gmail.com](mailto:farhanali9u@gmail.com)
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Simulation & Design**
-
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-E16B2B?style=for-the-badge&logo=mathworks&logoColor=white)
-![ETAP](https://img.shields.io/badge/ETAP-004C97?style=for-the-badge)
-![AutoCAD](https://img.shields.io/badge/AutoCAD%20Electrical-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
-![Multisim](https://img.shields.io/badge/Multisim-00A94F?style=for-the-badge)
-![Proteus](https://img.shields.io/badge/Proteus-1F2937?style=for-the-badge)
-
-**Programming**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=matlab,py,numpy,pandas,c,cpp,arduino,git,github,vscode,linux&perline=11" alt="Tech icons"/>
 
 </div>
 
-| ⚡ Power Systems | 🔄 Machines & Drives | ☀️ Renewables | 🔬 Electronics |
-|---|---|---|---|
-| MV/LV Distribution | Induction Motors | Solar PV (on/off-grid) | Rectifiers & Filters |
-| SLD Interpretation | Synchronous Generators | MPPT | Voltage Regulation |
-| Relay Coordination | Transformers | Grid-Tie Inverters | PCB Design (Proteus/EasyEDA) |
-| Short-Circuit Analysis | DOL / Star-Delta / VFD | Wind Energy Conversion | Embedded C/C++ |
-| Load Flow | Motor Protection | Harmonic Analysis, DG Interconnection | Multisim Simulation |
+<div align="center">
+<table>
+<tr>
+<th>Simulation & Design</th>
+<th>Power Systems</th>
+<th>Renewables</th>
+<th>Programming</th>
+</tr>
+<tr>
+<td align="center">
+
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)<br><br>
+![Simulink](https://img.shields.io/badge/SIMULINK-E16B2B?style=for-the-badge&logo=mathworks&logoColor=white)<br><br>
+![ETAP](https://img.shields.io/badge/ETAP-004C97?style=for-the-badge)<br><br>
+![AutoCAD](https://img.shields.io/badge/AUTOCAD_ELEC-E51050?style=for-the-badge&logo=autodesk&logoColor=white)<br><br>
+![Multisim](https://img.shields.io/badge/MULTISIM-00A94F?style=for-the-badge)<br><br>
+![Proteus](https://img.shields.io/badge/PROTEUS-374151?style=for-the-badge)
+
+</td>
+<td align="center">
+
+![MV/LV](https://img.shields.io/badge/MV%2FLV_DISTRIBUTION-1D4ED8?style=for-the-badge)<br><br>
+![SLD](https://img.shields.io/badge/SLD_ANALYSIS-0E7490?style=for-the-badge)<br><br>
+![Relay](https://img.shields.io/badge/RELAY_COORDINATION-7C3AED?style=for-the-badge)<br><br>
+![Fault](https://img.shields.io/badge/SHORT_CIRCUIT-DC2626?style=for-the-badge)<br><br>
+![LOTO](https://img.shields.io/badge/LOTO_%2F_PTW-EA580C?style=for-the-badge)
+
+</td>
+<td align="center">
+
+![Solar](https://img.shields.io/badge/SOLAR_PV-F59E0B?style=for-the-badge)<br><br>
+![MPPT](https://img.shields.io/badge/MPPT-16A34A?style=for-the-badge)<br><br>
+![Inverters](https://img.shields.io/badge/GRID--TIE_INVERTERS-0891B2?style=for-the-badge)<br><br>
+![Wind](https://img.shields.io/badge/WIND_ENERGY-2563EB?style=for-the-badge)<br><br>
+![BESS](https://img.shields.io/badge/BESS-9333EA?style=for-the-badge)
+
+</td>
+<td align="center">
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)<br><br>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)<br><br>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)<br><br>
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)<br><br>
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -76,8 +119,8 @@ Location:    Karachi, Pakistan
 <tr>
 <td width="50%" valign="top">
 
-### 🔧 DOL Motor Starter with Protection
-Direct-On-Line starter for a single-phase induction motor using a Finder 60.12 relay and contactor. Includes MCB, thermal overload relay, E-stop, Start/Stop buttons and relay self-holding control.
+### 🔧 DOL Motor Starter
+Direct-On-Line starter for a single-phase induction motor using a Finder 60.12 relay and contactor, with MCB, thermal overload, E-stop and Start/Stop control.
 
 `Relay Logic` `Motor Control` `Protection`
 
@@ -86,10 +129,10 @@ Direct-On-Line starter for a single-phase induction motor using a Finder 60.12 r
 </td>
 <td width="50%" valign="top">
 
-### 🔋 Regulated 5 V DC Power Supply
-Converts 220 V AC to regulated 5 V DC using a transformer, full-wave rectifier, filter capacitor and 7805 regulator. Voltage measured and analysed at every stage.
+### 🔋 Regulated DC Power Supply
+220 V AC to regulated DC using a transformer, full-wave rectifier, filter capacitor and 7805 regulator, measured and analysed stage by stage.
 
-`Rectifier` `7805` `Hardware`
+`Rectifier` `Regulator` `Hardware`
 
 [📂 View Repo](https://github.com/alikhan830/Power_Supply_Project)
 
@@ -99,7 +142,7 @@ Converts 220 V AC to regulated 5 V DC using a transformer, full-wave rectifier, 
 <td width="50%" valign="top">
 
 ### 📉 Full-Wave Rectifier & Ripple Analysis
-Centre-tapped rectifier (9-0-9 V, 1N4007) with calculated peak, RMS, ripple, PIV and transformer VA rating, simulated in Multisim.
+Centre-tapped full-wave rectifier with calculated peak, RMS, ripple, PIV and VA rating, simulated in NI Multisim.
 
 `Multisim` `Analysis` `Ripple`
 
@@ -109,7 +152,7 @@ Centre-tapped rectifier (9-0-9 V, 1N4007) with calculated peak, RMS, ripple, PIV
 <td width="50%" valign="top">
 
 ### 🚧 Coming Soon
-Relay coordination study in ETAP, load flow and fault analysis in MATLAB/Simulink, and a Python tool for IDMT relay curve plotting.
+ETAP relay coordination study, MATLAB/Simulink load flow and fault analysis, and a Python IDMT relay curve plotter.
 
 `ETAP` `MATLAB` `Python`
 
@@ -121,21 +164,16 @@ Relay coordination study in ETAP, load flow and fault analysis in MATLAB/Simulin
 
 ## 🏭 Experience
 
-**Electrical Engineering Intern: Lucky Cement Ltd** · Karachi · Jun – Jul 2025
-Captive Power Plant & 11 kV MV Distribution
+**Electrical Engineering Intern, Lucky Cement Ltd** · Karachi · Jun – Jul 2025
+*Captive Power Plant & 11 kV MV Distribution*
 
-- Genset load-sharing, islanding logic, utility tie-in
-- Hybrid energy systems and BESS for grid stability
-- Feeder layouts, busbars, 11 kV/433 V transformers via SLDs
-- Protection coordination: IDMT OC/EF/thermal, CT ratios, IEC 60255
+- Genset load-sharing, islanding logic and utility tie-in
+- Hybrid energy systems (thermal + solar + wind) and BESS for grid stability
+- Feeder layouts, busbars and 11 kV/433 V transformers traced through SLDs
+- Protection coordination: IDMT OC/EF/thermal, CT ratios, IEC 60255, NEPRA Grid Code
 - Motor control, power factor and harmonics monitoring
 
----
-
-## 📜 Certifications
-
-![MATLAB Onramp](https://img.shields.io/badge/MATLAB%20Onramp-MathWorks%202026-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![ETAP](https://img.shields.io/badge/ETAP%20Power%20System%20Analysis-Self%20Study%202025-004C97?style=flat-square)
+**Certifications:** MATLAB Onramp (MathWorks, 2026) · ETAP Power System Analysis (Self-Study, 2025)
 
 ---
 
@@ -143,10 +181,11 @@ Captive Power Plant & 11 kV MV Distribution
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alikhan830&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikhan830&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=alikhan830&theme=tokyonight&hide_border=true" alt="Streak stats"/>
 
-<img src="https://streak-stats.demolab.com?user=alikhan830&theme=tokyonight&hide_border=true" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikhan830&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
 </div>
 
@@ -156,7 +195,10 @@ Captive Power Plant & 11 kV MV Distribution
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alikhan830/alikhan830/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alikhan830/alikhan830/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/alikhan830/alikhan830/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -166,11 +208,11 @@ Captive Power Plant & 11 kV MV Distribution
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-farhan--ali--sher-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhan-ali-sher)
-[![Email](https://img.shields.io/badge/Email-farhanali9u@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanali9u@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0A66C2?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhan-ali-sher)
+[![Email](https://img.shields.io/badge/EMAIL-SAY_HI-8B5CF6?style=for-the-badge&labelColor=555555&logo=gmail&logoColor=white)](mailto:farhanali9u@gmail.com)
 
-*⚡ From Karachi, Pakistan. Let's power the future together.*
+*⚡ From Karachi, Pakistan. Let's power the future together!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:4c1d95,100:0f0c29&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
