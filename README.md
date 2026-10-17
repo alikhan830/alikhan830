@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0A66C2?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ali)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0A66C2?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ali-3b221a293/?isSelfProfile=true)
 [![Email](https://img.shields.io/badge/EMAIL-SAY_HI-8B5CF6?style=for-the-badge&labelColor=555555&logo=gmail&logoColor=white)](mailto:farhanali9u@gmail.com)
 ![Location](https://img.shields.io/badge/LOCATION-KARACHI,_PAKISTAN-06B6D4?style=for-the-badge&labelColor=555555&logo=googlemaps&logoColor=white)
 ![Intern](https://img.shields.io/badge/INTERN-LUCKY_CEMENT-F59E0B?style=for-the-badge&labelColor=555555)
