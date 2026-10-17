@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:4c1d95,100:0e7490&height=220&section=header&text=Farhan%20Ali&fontSize=60&fontColor=ffffff&desc=Electrical%20Engineer%20%7C%20Power%20Systems%20and%20Energy&descSize=22" width="100%" alt="Farhan Ali - Electrical Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:4c1d95,100:0e7490&height=240&section=header&text=Farhan%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Electrical%20Engineer%20%7C%20Power%20Systems%20and%20Energy&descSize=22&descAlignY=62" width="100%" alt="Farhan Ali - Electrical Engineer"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=Final+Year+EE+Student+%7C+FAST-NUCES;Power+Systems+%7C+Protection+%26+Relays;MV%2FLV+Distribution+%7C+Renewables+%26+BESS" alt="Typing SVG"/>
 
